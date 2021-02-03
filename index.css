@@ -1,0 +1,20 @@
+.card{
+    left:15%;
+    right:auto;
+    margin-top:5%;
+    border-radius: 15%;
+    background-color:#e8c400;
+
+}
+.card-body{
+    background-color: #e8c400;
+    border-radius:20%;
+    
+}
+body{
+    background-color:#252525;
+    color: #121051;
+}
+.btn{
+    margin-top: 1rem;
+}
